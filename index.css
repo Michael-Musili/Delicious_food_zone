@@ -1,0 +1,24 @@
+.navbar ul{
+    list-style-type: none;
+    display: flex;
+    float: right;
+    margin-top: -40px;
+    margin-right: 150px;
+
+}
+.navbar ul li {
+    margin-right: 30px;
+}
+.header{
+    background-color: blue;
+}
+#head{
+    text-align: center;
+
+}
+.about{
+    display: flex;
+}
+.images{
+    display: flex;
+}
