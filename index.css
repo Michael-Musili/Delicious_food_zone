@@ -22,3 +22,22 @@
 .images{
     display: flex;
 }
+.menuC{
+    text-align: center;
+}
+.menu1{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+.menu2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.menubutton{
+    text-align: center;
+}
+.contentHeader{
+    text-align: center;
+}
