@@ -1,3 +1,5 @@
+
+
 .navbar ul{
     list-style-type: none;
     display: flex;
@@ -8,19 +10,50 @@
 }
 .navbar ul li {
     margin-right: 30px;
+    padding-top: 50px;
 }
 .header{
     background-color: blue;
+    height: 400px;
 }
 #head{
     text-align: center;
+    padding-top: 80px;
+    color: white;
 
+}
+#head h1{
+
+    font-size: 50px;
 }
 .about{
     display: flex;
+    padding: 70px;
+    background-color: white;
+    height: 400px;
 }
-.images{
+.content{
+    padding: 40px;
+}
+.content h3{
+    font-size: 40px;
+}
+.mbutton{
+    padding-top: 10px;
+}
+.imagesAB{
     display: flex;
+    justify-content: space-evenly;
+}
+.img1{
+    padding: 10px;
+}
+.img2{
+    padding: 10px;
+}
+.menu{
+    background-color: rgb(229,229,229);
+    height: 1100px;
 }
 .menuC{
     text-align: center;
@@ -28,8 +61,6 @@
 .menu1{
     display: flex;
     justify-content: space-evenly;
-
-
 }
 .menu2{
     display: flex;
@@ -38,6 +69,44 @@
 .menubutton{
     text-align: center;
 }
+.imageA{
+    border:1px;
+    background-color: white;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
 .contentHeader{
     text-align: center;
+}
+.services1{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.services2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.headerC{
+    text-align: center;
+}
+.imagesC{
+    display: flex;
+    justify-content: space-between;
+}
+.imgA{
+    border: 1px solid ;
+}
+.headerBS{
+    text-align: center;
+}
+.Nfooter{
+    display: flex;
+    justify-content: space-evenly;
+    background-image:url(img-4.png) ;
+}
+.info{
+    display: flex;
+    justify-content: space-evenly;
 }
